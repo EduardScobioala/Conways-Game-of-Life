@@ -3,6 +3,7 @@ A C++ implementation of the cellular automaton devised by
 the British mathematician John Horton Conway in 1970.
 
 The graphical part was made up with the help of SFML library.
+
 In the begging you can create life by clicking on cells, 
 then you should press 'Space' button for the simulation to begin.
 
